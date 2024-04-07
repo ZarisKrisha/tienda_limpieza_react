@@ -1,0 +1,13 @@
+/* Estilos para el componente ProductosPrinc */
+
+/* Estilos para la mini barra de navegación */
+.navbar-nav .nav-link {
+    font-size: 18px;
+    margin-right: 20px;
+  }
+  
+  /* Estilos para el carrusel */
+  .carousel-item img {
+    max-height: 300px; /* Ajusta la altura máxima de las imágenes del carrusel */
+  }
+  
